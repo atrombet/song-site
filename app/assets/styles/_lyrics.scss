@@ -1,0 +1,15 @@
+.lyrics {
+  background-color: var(--bg-color-dark);
+  border-radius: var(--md);
+  padding: var(--xl);
+  width: fit-content;
+
+  font-family: monospace;
+
+  & h3 {
+    margin-bottom: var(--xs);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-decoration: underline;
+  }
+}

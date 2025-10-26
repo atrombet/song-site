@@ -1,0 +1,20 @@
+form {
+  margin-top: var(--xl);
+  display: flex;
+  flex-direction: column;
+  gap: var(--lg);
+
+  & img {
+    width: 200px;
+    height: auto;
+    transition: filter 0.1s linear;
+  }
+
+  & button, input[type="checkbox"] {
+    width: fit-content;
+  }
+
+  & input[type="date"] {
+    width: 150px;
+  }
+}

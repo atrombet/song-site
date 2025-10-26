@@ -1,0 +1,7 @@
+ul, li {
+  list-style-type: disclosure-closed;
+
+  &::marker {
+    color: var(--accent);
+  }
+}

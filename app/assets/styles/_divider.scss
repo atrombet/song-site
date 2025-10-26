@@ -1,0 +1,13 @@
+.divider {
+  height: 2px;
+  width: 150px;
+  background-color: var(--text-color);
+
+  &.center {
+    margin: auto;
+  }
+
+  &.dark {
+    background-color: var(--gray-darkest);
+  }
+}

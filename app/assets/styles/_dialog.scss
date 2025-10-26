@@ -1,0 +1,25 @@
+dialog {
+  width: 600px;
+  padding: var(--xl);
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  border: none;
+  border-radius: var(--md);
+  box-shadow: var(--elevation-dialog);
+
+  &[small] {
+    width: 400px;
+  }
+
+  &[large] {
+    width: 800px;
+  }
+
+  &[max] {
+    width: 80vw;
+  }
+
+  &::backdrop {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+}

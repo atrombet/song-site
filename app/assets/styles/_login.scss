@@ -1,0 +1,52 @@
+.login__wrapper {
+  background: var(--accent-gradient);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login {
+  background-color: var(--gray-darkest);
+  padding: var(--xl);
+  border-radius: var(--md);
+  width: 318px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: var(--md);
+
+  & h1 {
+    font-size: var(--font-size-heading);
+    margin: var(--xl) 0 0 0;
+  }
+
+  & img {
+    max-width: calc(100% - var(--xl) * 2);
+  }
+
+  & input[type="email"],
+  & input[type="password"] {
+    width: 300px;
+  }
+
+  &__goTo {
+    align-items: flex-start;
+    font-size: var(--font-size-small);
+  }
+
+  &__error {
+    color: var(--error);
+  }
+
+  &__remember {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    & label {
+      font-size: var(--font-size-small);
+    }
+  }
+}

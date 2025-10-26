@@ -1,0 +1,38 @@
+label {
+  display: block;
+  margin-bottom: var(--xs);
+  font-weight: var(--font-weight-bold);
+}
+
+input, textarea, select {
+  font-family: var(--font-family);
+  padding: var(--sm);
+  font-size: var(--font-size);
+  border: var(--border-subtle);
+  border-radius: var(--xs);
+
+  background-color: var(--gray-darker);
+  color: white;
+
+  &:focus-visible {
+    outline-color: var(--accent);
+  }
+
+  &[type="date"] {
+    padding: var(--xs) var(--sm);
+    border-radius: var(--sm);
+    background-color: var(--gray-darker);
+    border-color: var(--gray-dark);
+    color-scheme: dark;
+  }
+}
+
+select:invalid {
+  color: #757575;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--xs);
+}

@@ -67,7 +67,7 @@
       <p>Psalms 91:4 NLT</p>
     </blockquote>
     <p>
-      He is our protector and our defender, and there is no one on Heaven or
+      He is our protector and our defender, and there is no one in Heaven or on
       Earth like our God.
     </p>
   </div>

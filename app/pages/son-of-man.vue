@@ -55,7 +55,30 @@
 
   <div class="mt-xl">
     <h2>About this song...</h2>
-    <p>Just read Hebrews.</p>
+    <p>
+      This song is a reflection of what it means when we say that God became a
+      person. In Hebrews chapters 1 and 2, we are told that the Son is the
+      creator of everything, but that his Glory has actually been revealed to us
+      through his suffering (2:9-10). Why? Because God shows us his justice and
+      love when he enters the world and suffers the same fate as we do when we
+      die. This world has great freedom, but also great pain, and God would not
+      have been just or merciful to create such a world and then left it to its
+      own devices.
+    </p>
+    <p>
+      Instead, the writer of Hebrews tells us that Jesus was "made perfect" (or
+      "complete") by suffering death. He never left us alone, even in death.
+      Because we have seen God himself enter death and rise again, we do not
+      have to fear death anymore either (2:14-15). Now, the same hope that
+      raised Christ from the grave lives in us.
+    </p>
+    <p>
+      When we receive the covenant meal, represented in the broken bread of his
+      body and his blood, we remember that he became a person and shared in our
+      death so that we can now share in His life. Through being the kind of God
+      that is vulnerable along with us, in every pain that we now share, he
+      shows that His mercy toward us also reveals His justice.
+    </p>
   </div>
 </template>
 

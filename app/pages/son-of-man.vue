@@ -1,6 +1,10 @@
 <script setup></script>
 
 <template>
+  <div class="page-nav">
+    <BackButton />
+    <CopyLinkButton />
+  </div>
   <h1 class="ma-0">Son of Man</h1>
   <h2 class="author">by Brad Bain & Anthony Trombetta</h2>
   <audio

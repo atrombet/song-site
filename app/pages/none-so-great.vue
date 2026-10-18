@@ -1,6 +1,10 @@
 <script setup></script>
 
 <template>
+  <div class="page-nav">
+    <BackButton />
+    <CopyLinkButton />
+  </div>
   <h1 class="ma-0">None So Great</h1>
   <h2 class="author">by Anthony Trombetta</h2>
   <audio

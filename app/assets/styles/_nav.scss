@@ -1,0 +1,47 @@
+.page-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sm);
+  margin-bottom: var(--lg);
+  // Pull the buttons out so their text lines up with the page content.
+  margin-left: calc(-1 * var(--sm));
+  margin-right: calc(-1 * var(--sm));
+
+  &--end {
+    justify-content: flex-end;
+  }
+
+  &__button {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--xs);
+    height: 29px;
+    padding: var(--xs) var(--sm);
+    border: none;
+    border-radius: var(--xs);
+    background-color: transparent;
+    color: var(--accent-light);
+    font-family: var(--font-family);
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-bold);
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.1s linear, color 0.1s linear;
+
+    &:hover,
+    &:focus-visible {
+      background-color: rgba(255, 255, 255, 0.13);
+    }
+
+    &--success {
+      color: var(--success);
+    }
+
+    & i.icon {
+      font-size: var(--icon-size-small);
+      height: var(--icon-size-small);
+      width: var(--icon-size-small);
+    }
+  }
+}

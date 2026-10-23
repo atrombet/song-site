@@ -67,13 +67,13 @@
     <blockquote class="scripture">
       <p>
         <sup>1</sup> In the beginning was the Word, and the Word was with God,
-        and the Word was God. <sup>2</sup> He was with God in the beginning.
-        <sup>3</sup> Through him all things were made; without him nothing was
-        made that has been made. <sup>4</sup> In him was life, and that life
-        was the light of all mankind. <sup>5</sup> The light shines in the
+        and the Word was God. <sup>2</sup> He was in the beginning with God.
+        <sup>3</sup> All things were made through him, and without him was not
+        any thing made that was made. <sup>4</sup> In him was life, and the
+        life was the light of men. <sup>5</sup> The light shines in the
         darkness, and the darkness has not overcome it.
       </p>
-      <p>John 1:1-5 NIV</p>
+      <p>John 1:1-5 ESV</p>
     </blockquote>
     <p>
       Verse 2 picks up at verse 5 and carries on to verse 14. The light keeps
@@ -82,18 +82,19 @@
     </p>
     <blockquote class="scripture">
       <p>
-        <sup>14</sup> The Word became flesh and made his dwelling among us. We
-        have seen his glory, the glory of the one and only Son, who came from
-        the Father, full of grace and truth.
+        <sup>14</sup> And the Word became flesh and dwelt among us, and we have
+        seen his glory, glory as of the only Son from the Father, full of grace
+        and truth.
       </p>
-      <p>John 1:14 NIV</p>
+      <p>John 1:14 ESV</p>
     </blockquote>
     <p>
       A note on the line "Born of God, the Word became flesh": in John 1:13
       that phrase describes believers, who are "born of God" when they receive
       Him. We use it here of Jesus in the sense of John 1:14 and 1:18, where He
-      is the Father's "one and only Son". This is the historic Christian
-      confession that the Son is begotten of the Father, not made. Verses 1-3
+      is "the only Son from the Father" and "the only God, who is at the
+      Father's side". This is the historic Christian confession that the Son is
+      begotten of the Father, not made. Verses 1-3
       have already told us that He existed in the beginning and that nothing
       was made without Him, so this line is not saying the Word came into
       being. It is saying that the eternal Son of God took on human flesh.
@@ -106,12 +107,12 @@
     </p>
     <blockquote class="scripture">
       <p>
-        <sup>3</sup> The Son is the radiance of God's glory and the exact
-        representation of his being, sustaining all things by his powerful
-        word. After he had provided purification for sins, he sat down at the
-        right hand of the Majesty in heaven.
+        <sup>3</sup> He is the radiance of the glory of God and the exact
+        imprint of his nature, and he upholds the universe by the word of his
+        power. After making purification for sins, he sat down at the right
+        hand of the Majesty on high,
       </p>
-      <p>Hebrews 1:3 NIV</p>
+      <p>Hebrews 1:3 ESV</p>
     </blockquote>
     <p>
       "Name above all names" and "we bend our knees to you alone" come straight
@@ -121,17 +122,18 @@
     </p>
     <blockquote class="scripture">
       <p>
-        <sup>9</sup> Therefore God exalted him to the highest place and gave
-        him the name that is above every name, <sup>10</sup> that at the name
+        <sup>9</sup> Therefore God has highly exalted him and bestowed on him
+        the name that is above every name, <sup>10</sup> so that at the name
         of Jesus every knee should bow, in heaven and on earth and under the
-        earth, <sup>11</sup> and every tongue acknowledge that Jesus Christ is
+        earth, <sup>11</sup> and every tongue confess that Jesus Christ is
         Lord, to the glory of God the Father.
       </p>
-      <p>Philippians 2:9-11 NIV</p>
+      <p>Philippians 2:9-11 ESV</p>
     </blockquote>
     <p>
-      "High and lifted up" is the language of Isaiah 6:1, where the prophet
-      sees the Lord seated on His throne. In John's Gospel Jesus also uses
+      "High and lifted up" is taken straight from Isaiah 6:1, where the prophet
+      sees the Lord "sitting upon a throne, high and lifted up". In John's
+      Gospel Jesus also uses
       "lifted up" to speak of His own cross (John 3:14, 12:32). We sing it
       with both in mind. The one lifted up on the cross is the same one lifted
       high on the throne.
@@ -139,7 +141,7 @@
     <p>
       Verse 3 takes us to the cross, where the Word who gives life to everything
       hangs crucified, bearing our sin. The promise that follows is Jesus' own:
-      whoever believes in Him will not perish but have eternal life (John
+      whoever believes in Him "should not perish but have eternal life" (John
       3:16). Hebrews 2:9 says that Jesus suffered death so that He might "taste
       death for everyone", which is why those who trust in Him will not taste
       it themselves.
@@ -147,25 +149,25 @@
     <blockquote class="scripture">
       <p>
         <sup>25</sup> Jesus said to her, "I am the resurrection and the life.
-        The one who believes in me will live, even though they die;
-        <sup>26</sup> and whoever lives by believing in me will never die. Do
-        you believe this?"
+        Whoever believes in me, though he die, yet shall he live,
+        <sup>26</sup> and everyone who lives and believes in me shall never
+        die. Do you believe this?"
       </p>
-      <p>John 11:25-26 NIV</p>
+      <p>John 11:25-26 ESV</p>
     </blockquote>
     <p>
       The bridge gathers it all up. Jesus was crucified and raised to life
-      (Revelation 1:18). He is fully human and fully God, for "in Christ all the
-      fullness of the Deity lives in bodily form" (Colossians 2:9). And He is
-      seated now on the throne.
+      (Revelation 1:18). He is fully human and fully God, for "in him the whole
+      fullness of deity dwells bodily" (Colossians 2:9). And He is seated now
+      on the throne.
     </p>
     <blockquote class="scripture">
       <p>
-        <sup>2</sup> fixing our eyes on Jesus, the pioneer and perfecter of
-        faith. For the joy set before him he endured the cross, scorning its
-        shame, and sat down at the right hand of the throne of God.
+        <sup>2</sup> looking to Jesus, the founder and perfecter of our faith,
+        who for the joy that was set before him endured the cross, despising
+        the shame, and is seated at the right hand of the throne of God.
       </p>
-      <p>Hebrews 12:2 NIV</p>
+      <p>Hebrews 12:2 ESV</p>
     </blockquote>
     <p>
       So when we sing "Jesus, You are on the throne", we are not expressing a

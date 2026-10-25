@@ -19,7 +19,7 @@
     <h3>Verse 2</h3>
     <div>Through the dark that light will shine</div>
     <div>And the dark has no power, no the dark has no power</div>
-    <div>Born of God, the Word became flesh</div>
+    <div>Dwelling here, the Word became flesh</div>
     <div>Full of grace and truth, grace and truth</div>
     <div>Hoo hoo, grace and truth</div>
     <div>Hoo hoo, grace and truth</div>
@@ -78,7 +78,9 @@
     <p>
       Verse 2 picks up at verse 5 and carries on to verse 14. The light keeps
       shining and the darkness has no power to put it out. Then the Word, who
-      is God, becomes flesh and lives among us, full of grace and truth.
+      is God, becomes flesh and dwells among us, full of grace and truth.
+      "Dwelling here" is John's own language: the eternal Word did not stay at a
+      distance but came and made His home with us.
     </p>
     <blockquote class="scripture">
       <p>
@@ -88,17 +90,6 @@
       </p>
       <p>John 1:14 ESV</p>
     </blockquote>
-    <p>
-      A note on the line "Born of God, the Word became flesh": in John 1:13
-      that phrase describes believers, who are "born of God" when they receive
-      Him. We use it here of Jesus in the sense of John 1:14 and 1:18, where He
-      is "the only Son from the Father" and "the only God, who is at the
-      Father's side". This is the historic Christian confession that the Son is
-      begotten of the Father, not made. Verses 1-3
-      have already told us that He existed in the beginning and that nothing
-      was made without Him, so this line is not saying the Word came into
-      being. It is saying that the eternal Son of God took on human flesh.
-    </p>
     <p>
       The pre-chorus and chorus are our response to who the Word is. Hebrews
       opens by describing the Son in the same terms John does, as the one

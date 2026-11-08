@@ -7,6 +7,10 @@
   </div>
   <h1 class="ma-0">You Are On The Throne</h1>
   <h2 class="author">by Anthony Trombetta & David Mace</h2>
+  <audio
+    controls
+    src="https://hslkazhfaubksokrytbz.supabase.co/storage/v1/object/sign/songs/You%20Are%20On%20The%20Throne%20-%20Demo%20v1.2.mp3?token=eyJraWQiOiJmNmY4NGJmYS05NzE4LTQ5MDEtYWUwZC1lYTJjYmY1YjAyYTEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJzb25ncy9Zb3UgQXJlIE9uIFRoZSBUaHJvbmUgLSBEZW1vIHYxLjIubXAzIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NDE1OTI3MCwiZXhwIjoxOTUxODM5MjcwfQ.790AuZuigFJqWi5C9XzZKRxMjWUUBQcBkaYy2wcW9lk"
+  />
   <div class="lyrics mt-xl">
     <h3 class="mt-0">Verse 1</h3>
     <div>At the start there was the Word</div>
